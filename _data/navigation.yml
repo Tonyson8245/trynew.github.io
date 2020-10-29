@@ -1,4 +1,11 @@
 # main links
  main:
-  - title: "인스타 방문하기"
+  - title: "instagram"
     url: https://www.instagram.com/son.dongo/
+
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
