@@ -1,8 +1,4 @@
 # main links
  main:
-   - title: "블로그 방문하기"
-     url: https://tonyson8245.github.io/trynew.github.io
-         - title: "About"
-             url: /about/
-         - title: "Java"
-             url: /Java/
+  - title: "인스타 방문하기"
+    url: https://www.instagram.com/son.dongo/
